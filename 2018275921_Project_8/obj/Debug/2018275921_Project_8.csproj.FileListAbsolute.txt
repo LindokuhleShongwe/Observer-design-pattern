@@ -1,0 +1,22 @@
+C:\Users\LINDOKUHLE\source\repos\2018275921_Project_8\2018275921_Project_8\bin\Debug\2018275921_Project_8.exe.config
+C:\Users\LINDOKUHLE\source\repos\2018275921_Project_8\2018275921_Project_8\bin\Debug\2018275921_Project_8.exe
+C:\Users\LINDOKUHLE\source\repos\2018275921_Project_8\2018275921_Project_8\bin\Debug\2018275921_Project_8.pdb
+C:\Users\LINDOKUHLE\source\repos\2018275921_Project_8\2018275921_Project_8\obj\Debug\2018275921_Project_8.csprojAssemblyReference.cache
+C:\Users\LINDOKUHLE\source\repos\2018275921_Project_8\2018275921_Project_8\obj\Debug\_2018275921_Project_8.Publisher.resources
+C:\Users\LINDOKUHLE\source\repos\2018275921_Project_8\2018275921_Project_8\obj\Debug\_2018275921_Project_8.Properties.Resources.resources
+C:\Users\LINDOKUHLE\source\repos\2018275921_Project_8\2018275921_Project_8\obj\Debug\2018275921_Project_8.csproj.GenerateResource.cache
+C:\Users\LINDOKUHLE\source\repos\2018275921_Project_8\2018275921_Project_8\obj\Debug\2018275921_Project_8.csproj.CoreCompileInputs.cache
+C:\Users\LINDOKUHLE\source\repos\2018275921_Project_8\2018275921_Project_8\obj\Debug\2018275921_Project_8.exe
+C:\Users\LINDOKUHLE\source\repos\2018275921_Project_8\2018275921_Project_8\obj\Debug\2018275921_Project_8.pdb
+C:\Users\LINDOKUHLE\source\repos\2018275921_Project_8\2018275921_Project_8\obj\Debug\_2018275921_Project_8.Observer.resources
+C:\Users\LINDOKUHLE\Desktop\CSIS 2664 projects\2018275921_Project_8\2018275921_Project_8\bin\Debug\2018275921_Project_8.exe.config
+C:\Users\LINDOKUHLE\Desktop\CSIS 2664 projects\2018275921_Project_8\2018275921_Project_8\bin\Debug\2018275921_Project_8.exe
+C:\Users\LINDOKUHLE\Desktop\CSIS 2664 projects\2018275921_Project_8\2018275921_Project_8\bin\Debug\2018275921_Project_8.pdb
+C:\Users\LINDOKUHLE\Desktop\CSIS 2664 projects\2018275921_Project_8\2018275921_Project_8\obj\Debug\2018275921_Project_8.csprojAssemblyReference.cache
+C:\Users\LINDOKUHLE\Desktop\CSIS 2664 projects\2018275921_Project_8\2018275921_Project_8\obj\Debug\_2018275921_Project_8.Observer.resources
+C:\Users\LINDOKUHLE\Desktop\CSIS 2664 projects\2018275921_Project_8\2018275921_Project_8\obj\Debug\_2018275921_Project_8.Colors.resources
+C:\Users\LINDOKUHLE\Desktop\CSIS 2664 projects\2018275921_Project_8\2018275921_Project_8\obj\Debug\_2018275921_Project_8.Properties.Resources.resources
+C:\Users\LINDOKUHLE\Desktop\CSIS 2664 projects\2018275921_Project_8\2018275921_Project_8\obj\Debug\2018275921_Project_8.csproj.GenerateResource.cache
+C:\Users\LINDOKUHLE\Desktop\CSIS 2664 projects\2018275921_Project_8\2018275921_Project_8\obj\Debug\2018275921_Project_8.csproj.CoreCompileInputs.cache
+C:\Users\LINDOKUHLE\Desktop\CSIS 2664 projects\2018275921_Project_8\2018275921_Project_8\obj\Debug\2018275921_Project_8.exe
+C:\Users\LINDOKUHLE\Desktop\CSIS 2664 projects\2018275921_Project_8\2018275921_Project_8\obj\Debug\2018275921_Project_8.pdb
